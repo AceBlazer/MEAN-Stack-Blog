@@ -1,0 +1,24 @@
+{
+  "name": "j",
+  "version": "1.0.0",
+  "description": "js",
+  "main": "jasser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node jasser"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "console": "^0.7.2",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "nodemon": "^1.17.5",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
