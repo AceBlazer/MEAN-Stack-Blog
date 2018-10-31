@@ -1,1 +1,1 @@
-# MEAN-Stack-Blog-Backend
+# MEAN-Stack-Blog
